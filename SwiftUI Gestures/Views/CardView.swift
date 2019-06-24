@@ -12,7 +12,7 @@ struct CardView : View {
     var body: some View {
         VStack {
             HStack {
-                Text("Build an Drag Gesture app with SwiftUI")
+                Text("Build a Drag Gesture app with SwiftUI")
                     .font(.largeTitle)
                     .fontWeight(.black)
                     .color(.white)

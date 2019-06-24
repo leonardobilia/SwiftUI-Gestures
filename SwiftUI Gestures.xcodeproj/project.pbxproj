@@ -14,6 +14,7 @@
 		8F8A8F1F22C0439600F68AA8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F8A8F1E22C0439600F68AA8 /* Preview Assets.xcassets */; };
 		8F8A8F2222C0439600F68AA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F8A8F2022C0439600F68AA8 /* LaunchScreen.storyboard */; };
 		8F8A8F2B22C0446000F68AA8 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8A8F2A22C0446000F68AA8 /* CardView.swift */; };
+		8F9F8EF622C06DCE00338879 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8F9F8EF522C06DCE00338879 /* README.md */; };
 		8FEA2AD422C05BE6005A4683 /* CardBackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FEA2AD322C05BE6005A4683 /* CardBackView.swift */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 		8F8A8F2122C0439600F68AA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8F8A8F2322C0439600F68AA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F8A8F2A22C0446000F68AA8 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		8F9F8EF522C06DCE00338879 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8FEA2AD322C05BE6005A4683 /* CardBackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardBackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -44,6 +46,7 @@
 		8F8A8F0922C0439000F68AA8 = {
 			isa = PBXGroup;
 			children = (
+				8F9F8EF522C06DCE00338879 /* README.md */,
 				8F8A8F1422C0439000F68AA8 /* SwiftUI Gestures */,
 				8F8A8F1322C0439000F68AA8 /* Products */,
 			);
@@ -149,6 +152,7 @@
 			files = (
 				8F8A8F2222C0439600F68AA8 /* LaunchScreen.storyboard in Resources */,
 				8F8A8F1F22C0439600F68AA8 /* Preview Assets.xcassets in Resources */,
+				8F9F8EF622C06DCE00338879 /* README.md in Resources */,
 				8F8A8F1C22C0439600F68AA8 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
